@@ -243,17 +243,21 @@ class AnishaPaturi:
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AnishaPaturi&theme=radical&hide_border=true" alt="Streak Stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=AnishaPaturi&theme=radical&hide_border=true" alt="Streak Stats" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnishaPaturi&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=AnishaPaturi&theme=radical&no-frame=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
+<!--
+The widget below (github-contributor-stats.vercel.app) is currently down (host quota exceeded).
+Uncomment once the service is back up, or self-host: https://github.com/HwangTaehyun/github-contributor-stats
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=AnishaPaturi&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributions" />
 </p>
-
+-->
+Fourth
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
 </p>
@@ -271,8 +275,4 @@ class AnishaPaturi:
 
 <p align="center">
   <b>🚀 Let's build something intelligent together — open to collaboration, projects, and internship opportunities!</b>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AnishaPaturi&icon=0&color=46e3b7" alt="Visitor Count" />
 </p>
