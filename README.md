@@ -1,27 +1,278 @@
-# 💫 About Me:
-                    Passionate Computer Science Engineering student at KMIT (CGPA: 8.6) with hands-on experience in full-stack web development and AI-driven applications. Skilled in the MERN stack, Java, and Python, with a strong foundation in data structures, algorithms, and core computer science principles.<br>Experienced in building scalable, end-to-end solutions, including RESTful APIs, database integration, and deployment. Completed internships at IBaseIT and ODT, gaining exposure to real-world software development, system optimization, and collaborative engineering environments. Actively exploring AI and modern web technologies to build impactful, real-world solutions.<br>
+<h1 align="center">Hi 👋, I'm Anisha Paturi</h1>
+<h3 align="center">Full-Stack Engineer | AI/ML & Agentic AI Enthusiast</h3>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&color=46E3B7&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full-Stack+Web+Developer;Building+Multi-Agent+LLM+Systems" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anisha-paturi-8b885a2b5) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@anisha paturi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paturi.anisha@gmail.com) 
+<p align="center">
+  <a href="https://linkedin.com/in/anisha-paturi-8b885a2b5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:paturi.anisha@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="./Resume/Anisha%20Paturi.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AnishaPaturi&style=for-the-badge&color=46E3B7" alt="Profile Views" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnishaPaturi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AnishaPaturi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishaPaturi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnishaPaturi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AnishaPaturi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">⭐ Open to <b>Software Engineering</b> & <b>AI/ML Internship</b> opportunities ⭐</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnishaPaturi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 About Me
+
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <ul>
+        <li>🔭 Fourth-year CSE student focused on building products where solid engineering meets applied intelligence</li>
+        <li>⚙️ Designing multi-agent LLM architectures with <b>LangChain</b> and <b>LangGraph</b></li>
+        <li>🌐 Building RESTful APIs and microservices with <b>Spring Boot</b> and <b>FastAPI</b></li>
+        <li>🎨 Pairing responsive frontends (<b>React</b>, <b>Next.js</b>) with heavier server-side pipelines</li>
+        <li>📈 Tuning database schemas, Redis caching, and pagination for performance</li>
+        <li>💬 Always up for a chat about full-stack architecture or agentic AI — reach out!</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+
+```python
+class AnishaPaturi:
+    def __init__(self):
+        self.name   = "Anisha Paturi"
+        self.role   = "Full-Stack & AI Engineer"
+        self.cgpa   = "8.6 / 10"
+        self.degree = "B.Tech CSE, 2023–2027"
+        self.org    = "KMIT, Hyderabad, India"
+        self.focus  = ["LLM Agents", "RAG", "Full-Stack"]
+
+    def seek_internship(self):
+        return "SWE / AI-ML Internship"
+```
+
+</td>
+  </tr>
+</table>
+
+---
+
+### 💼 Experience
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏢 Software Engineer Intern — ODT</h4>
+      <i>Apr 2025 – Jun 2025</i>
+      <ul>
+        <li>Migrated a legacy PHP Symfony campaign manager into a clean Python backend</li>
+        <li>Built dynamic dashboards for campaign stats and real-time response logs</li>
+        <li>Improved backend throughput and overall codebase maintainability</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_APIs-109989?style=flat" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏢 Software Engineer Intern — IBaseIT</h4>
+      <i>May 2024 – Jun 2024</i>
+      <ul>
+        <li>Built <b>GradeSync</b>, a student grade management portal for admin data sorting/averaging</li>
+        <li>Wrote calculation scripts for grade averages, metrics, and report exports</li>
+        <li>Received a Letter of Recommendation from the Director of Software Engineering</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛠️ CareerPilot-AI</h4>
+      <i>AI-powered placement readiness & interview simulation platform</i>
+      <ul>
+        <li>🎙️ Mock interview simulator with semantic grading and improvement feedback</li>
+        <li>📄 ATS resume matcher and auto-apply using vector embeddings</li>
+        <li>🗺️ Personalized DSA roadmaps synced with live LeetCode stats</li>
+      </ul>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009639?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <br/><a href="https://github.com/AnishaPaturi/CareerPilot-AI"><b>View Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 VizTalk</h4>
+      <i>Conversational BI & data visualization dashboard</i>
+      <ul>
+        <li>🎙️ Voice/text-to-SQL parsing and execution using a DeepSeek LLM</li>
+        <li>📈 Auto-recommended, auto-rendered Plotly charts</li>
+        <li>💬 Persistent session memory for multi-turn database querying</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009639?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/DeepSeek-blue?style=flat-square&logo=deepseek&logoColor=white" />
+      <br/><a href="https://github.com/AnishaPaturi/VizTalk"><b>View Repository →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Mood Angels</h4>
+      <i>AI-driven mental health analytics & booking portal</i>
+      <ul>
+        <li>📈 Behavioral mood prediction using Scikit-Learn</li>
+        <li>📅 Therapist appointment scheduling with secure digital records</li>
+        <li>🔐 Google OAuth + JWT session security</li>
+      </ul>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <br/><a href="https://github.com/AnishaPaturi/Mood-Angles"><b>View Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛣️ SafeStreet</h4>
+      <i>AI road damage classification & alert system</i>
+      <ul>
+        <li>📸 ViT-based classification of 4 road damage types at 90%+ accuracy</li>
+        <li>📨 Geotagged damage alerts sent directly to municipal systems</li>
+        <li>💬 Chatbot support for report tracking</li>
+      </ul>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini_AI-orange?style=flat-square&logo=google-gemini&logoColor=white" />
+      <br/><a href="https://github.com/AnishaPaturi/SafeStreet-final"><b>View Repository →</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Tech Stack
+
+<table width="100%">
+  <tr>
+    <td width="18%"><b>🗣️ Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 AI / ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🌐 Web / Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-109989?style=flat&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=flat&logo=streamlit&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Databases / DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-A08021?style=flat&logo=firebase&logoColor=ffcd34" />
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Achievements & Certifications
+
+| Year | Achievement | Issuer |
+| :--- | :--- | :--- |
+| 2026 | 🥇 **1st Place**, GeeksforGeeks Hackathon — competitive coding & systems design | GeeksforGeeks |
+| 2025 | 🥉 **3rd Place**, Agentic AI Hackathon — multi-agent LLM systems | Hackathon |
+| 2025 | 🎓 **Claude Code Certification** — LLMs for coding, debugging, prompt engineering | Anthropic |
+| 2025 | ☁️ **AWS Certified Cloud Practitioner** | Amazon Web Services |
+| 2025 | 🧩 **Active Participant**, Product Space Hackathon | Product Space |
+| 2025 | 📘 **GenAI Workshop** — Generative AI techniques | IIT Hyderabad × Skilligence |
+| — | 🗃️ **SQL (Advanced) Certified** — ID `53EA5621369E` | HackerRank |
+| 2024 | 🧑‍🏫 **DBMS Workshop Facilitator** — taught SQL/DBMS to junior peers | KMIT |
+| — | 🎓 **CGPA 8.6/10**, B.Tech CSE | KMIT |
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnishaPaturi&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishaPaturi&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AnishaPaturi&theme=radical&hide_border=true" alt="Streak Stats" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnishaPaturi&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AnishaPaturi&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributions" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
+</p>
+
+---
+
+### 🌍 Beyond the Code
+
+- 👥 **Community Service** — 40+ hours with NSS across 5+ social welfare campaigns
+- 🎨 **Graphic Design** — Promotional assets for KMIT events, reaching 2,000+ students
+- 🏃 **Marathon Volunteer** — Logistics support, NMDC Hyderabad Marathon 2024
+- 💡 **Currently Exploring** — Multi-modal LLMs, advanced RAG architectures, autonomous AI agents
+
+---
+
+<p align="center">
+  <b>🚀 Let's build something intelligent together — open to collaboration, projects, and internship opportunities!</b>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AnishaPaturi&icon=0&color=46e3b7" alt="Visitor Count" />
+</p>
